@@ -91,31 +91,19 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
-      link: '#'
+    - company: 山东省莘县大张家镇卫生院（支医）
+      link: 
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+      date: 2018.10 - 2021.04
+      location: 聊城
 
-    - company: First Company
+    - company: 陕西众信医药超市连锁股份有限公司
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+      tags: Full-time
+      date: 2017.07 - 2018.06
+      location: 西安
 
 project:
   show: true
@@ -134,7 +122,6 @@ project:
       tags:
       date: 2022.12 - 至今
       description: |
-        # Research description...
         + 参与鲤鱼的饲养，体内取样以及抗氧化指标检测等；
         + 完成文章实验设计，完成DHE染色，Tunel染色等实验；
         + 完成数据的分析和可视化工作，独立完成论文撰写工作。
@@ -149,7 +136,6 @@ project:
       tags: # 写你在研究中扮演的角色
       date: 2022.12 - 至今
       description: |
-        # Research description...
         + 在体内进行盲肠结扎穿刺(CLP)手术以构建脓毒症小鼠模型，并将药物进行腹腔注射。利用HE、IF、WB等技术，评估药物对模型的保护作用；
         + 参与体外细胞培养以及建模。
         
