@@ -1,6 +1,6 @@
 basic:
   name: 纪晓孟                      # name
-  title: Backend Developer           # job title
+  title: Prospective Student           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -190,42 +190,50 @@ skill:
   order: 6
   title: Skills
 
-  items:
-    - name: Skill A
-      level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
+  # items:
+  #   - name: Skill A
+  #     level: 5
+  #   - name: Skill B
+  #     level: 4
+  #   - name: Skill C
+  #     level: 3
+  #   - name: Skill D
+  #     level: 4
+  #   - name: Skill E
+  #     level: 3
+  #   - name: Skill F
+  #     level: 1
+  #   - name: Skill G
+  #     level: 4
+  #   - name: Skill H
+  #     level: 4
+  #   - name: Skill I
+  #     level: 3
 
   groups:
-    - name: Group A Skills
+    - name: 实验技术
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - RNA 提取
+        - PCR
+        - Real-Time PCR
+        - Western blot
+        - IF
+        - IHC
+        - ELISA
+        - siRNA
+        - 基因过表达
+        - 流式检测和分析
+        - 分子克隆
+        - 细胞培养技术
+        - 动物组织取样
+        - 动物行为学实验等
+    - name: 软件使用
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
-      item:
-        - Skill H
-        - Skill I
+        - GraphPad Prism
+        - ImageJ
+        - Office
+        - Photoshop等
+
 
 certificate:
   show: false
@@ -260,18 +268,18 @@ award:
   order: 8
   title: Awards
   items:
-    - name: Example Awared One
-      awarder: by Example
+    - name: 江苏海洋大学2022- 2023研究生三等学业奖学金
+      date: 2023
+
+    - name: 江苏海洋大学2021- 2022研究生三等学业奖学金
       date: 2022
-      link: '#'
-      description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
+
+    - name: 江苏省研究生临床药学技能大赛三等奖
       date: 2022
-      link:
-      description: |
-        It's my Example Awared Two by Example.
+    
+    - name: 全国高校毕业生三支一扶期满合格证书，
+      date: 2020
+
 
 patent:
   show: false
@@ -319,7 +327,7 @@ language:
       level: Professional
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   items:
@@ -340,7 +348,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   items:
