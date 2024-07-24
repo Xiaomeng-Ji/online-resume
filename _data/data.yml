@@ -110,13 +110,6 @@ project:
   show: true
   order: 3
   title: 科研经历
-  description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
   items:
     - name: 针对鲤鱼遭受环境污染物损害的保护研究
       link: 
@@ -143,15 +136,6 @@ publication:
   show: true
   order: 4
   title: 科研成果
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
   items:
     - title: QUE alleviates ferroptosis in DFZ-induced kidney injury by activating the Nrf2/GPX4 defense pathway
       authors: Ji, X., Xie, K., Li, Y., Chen, J., Liu, T., Dong, Z.
@@ -194,17 +178,15 @@ experience:
       link: 
       tags: Full-time
       date: 2018.10 - 2021.04
-      location: 聊城
 
     - company: 陕西众信医药超市连锁股份有限公司
       link:
       tags: Full-time
       date: 2017.07 - 2018.06
-      location: 西安
 
 
 skill:
-  show: true
+  show: false
   order: 6
   title: Skills
   description: |
@@ -254,7 +236,7 @@ skill:
         - Skill I
 
 certificate:
-  show: true
+  show: false
   order: 7
   title: Certificates
   description: |
@@ -307,7 +289,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -331,7 +313,7 @@ patent:
     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 organization:
-  show: true
+  show: false
   order: 10
   title: Organizations
   description: |
