@@ -1,5 +1,5 @@
 basic:
-  name: Foo Bar                      # name
+  name: 纪晓孟                      # name
   title: Backend Developer           # job title
   avatar:
     show: true                       # show or hide avatar
