@@ -129,23 +129,29 @@ project:
     The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
+    - name: 针对鲤鱼遭受环境污染物损害的保护研究
       link: '#'
       tags:
-      date: 2015 - 2017
+      date: 2022.12 - 至今
       description: |
-        Personal project description...
-        + First
-        + Second
+        Research description...
+        + 参与鲤鱼的饲养，体内取样以及抗氧化指标检测等；
+        + 完成文章实验设计，完成DHE染色，Tunel染色等实验；
+        + 完成数据的分析和可视化工作，独立完成论文撰写工作。
+        成果：毒理学相关文章已发表四篇（一作1篇，共一2篇，四作1篇），Under review一篇（一作）。
+ 
 
-    - name: OSS project
+
+
+    - name: 关于药物缓解脓毒症多器官损伤的研究
       link:
-      tags: committer
-      date:
+      tags: # 写你在研究中扮演的角色
+      date: 2022.12 - 至今
       description: |
-        OSS project description...
-        + First
-        + Second
+        Research description...
+        + 在体内进行盲肠结扎穿刺(CLP)手术以构建脓毒症小鼠模型，并将药物进行腹腔注射。利用HE、IF、WB等技术，评估药物对模型的保护作用；
+        + 参与体外细胞培养以及建模。
+        成果：基于脓毒症的药理学文章已发表一篇（四作），在做一篇（一作）。
 
 skill:
   show: true
@@ -207,21 +213,21 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
+    - institution: 江苏海洋大学
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 2022.09 - 至今
+      major: 药学
+      degree: 专业硕士
       description: |
         Additional information for this institution.
         + First
         + Second
 
-    - institution: Example University
+    - institution: 中国药科大学
       link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+      date: 2018.03 - 2021.01
+      major: 药学
+      degree: 本科（函授）
       description: |
         Additional information for this institution.
         + First
