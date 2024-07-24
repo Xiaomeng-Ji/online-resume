@@ -188,7 +188,7 @@ experience:
 skill:
   show: true
   order: 6
-  title: Skills
+  title: 掌握技能
 
   # items:
   #   - name: Skill A
@@ -266,7 +266,7 @@ certificate:
 award:
   show: true
   order: 8
-  title: Awards
+  title: 荣誉证书
   items:
     - name: 江苏海洋大学2022- 2023研究生三等学业奖学金
       date: 2023
