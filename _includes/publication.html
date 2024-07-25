@@ -29,7 +29,6 @@
 
         {%- if item.authors %}
         <div class="authors">
-<!--           <span>{{ item.cofauthors }{ item.fauthor }{ item.authors }}</span> -->
           <span>{{ item.authors | replace("**", "<strong>") | replace("**", "</strong>") | safe }}</span>
         </div>
         {%- endif %}
