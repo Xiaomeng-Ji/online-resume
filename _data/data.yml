@@ -233,8 +233,6 @@ publication:
         hash: true
         bold: false
       - name: "Ma, Y."
-        hash: true
-        bold: false
       - name: "Xin, Y."
       - name: "Ji, X."
         hash: false
