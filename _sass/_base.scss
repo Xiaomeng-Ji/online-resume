@@ -176,7 +176,7 @@ small {
         line-height: 1;
         }
       .author-risk::after {
-        content: '*';
+        content: '\002A';
         position: absolute;
         top: 4px;
         right: -6px;
