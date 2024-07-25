@@ -153,11 +153,11 @@ publication:
     - title: Silybin protected from avermectin-induced carp (Cyprinus carpio) nephrotoxicity by regulating PPAR-γ-involved inflammation, oxidative stress, ferroptosis and autophagy
       authors: 
         - name: "Gan, J."
-            hash: true
-            bold: false
+          hash: true
+          bold: false
         - name: "Ji, X." 
-            hash: true
-            bold: true
+          hash: true
+          bold: true
         - name: "Jin, X."
         - name: "Zhou, M." 
         - name: "Yang, C." 
