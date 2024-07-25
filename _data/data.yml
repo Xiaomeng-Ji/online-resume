@@ -142,13 +142,13 @@ publication:
         - name: "Ji, X."
           hash: true
           bold: true
-        - name: "Xie, K.", 
-        - name: "Li, Y.", 
-        - name: "Chen, J.", 
-        - name: "Liu, T.", 
+        - name: "Xie, K."
+        - name: "Li, Y."
+        - name: "Chen, J."
+        - name: "Liu, T."
         - name: "Dong, Z."
       conference: Pesticide biochemistry and physiology, 2024. (SCI一区，IF=4.2，第一作者, Under review)
-      link:
+      link: ""
       
     - title: Silybin protected from avermectin-induced carp (Cyprinus carpio) nephrotoxicity by regulating PPAR-γ-involved inflammation, oxidative stress, ferroptosis and autophagy
       authors: "Gan, J., **Ji, X.**, Jin, X., Zhou, M., Yang, C., Chen, Z., Yin, C., & Dong, Z."
