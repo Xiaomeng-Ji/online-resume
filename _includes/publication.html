@@ -29,7 +29,7 @@
 
         {%- if item.authors %}
         <div class="authors">
-          <span>{{ item.authors | replace("**", "<strong>") | replace("**", "</strong>") | safe }}</span>
+          <span>{{ item.authors | replace("**", "<strong>") | replace("**", "</strong>") | markdownify | safe }}</span>
         </div>
         {%- endif %}
 
