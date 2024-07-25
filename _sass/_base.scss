@@ -162,13 +162,13 @@ small {
       .author {
         position: relative;
         display: inline-block;
-        padding: 0px;
+        padding: -2px;
       }
       .author-hash::after {
         content: '#';
         position: absolute;
-        top: -5px;
-        right: -10px;
+        top: -10px;
+        right: -12px;
         font-size: 10px;
         color: red; /* 你可以根据需要更改颜色 */
         }
