@@ -146,7 +146,8 @@ publication:
         - name: "Li, Y."
         - name: "Chen, J."
         - name: "Liu, T."
-        - name: "Dong, Z.*"
+        - name: "Dong, Z."
+          risk: true
       conference: Pesticide biochemistry and physiology, 2024. (SCI一区，IF=4.2，第一作者, Under review)
       link: ""
       
@@ -163,7 +164,8 @@ publication:
         - name: "Yang, C." 
         - name: "Chen, Z." 
         - name: "Yin, C."
-        - name: "Dong, Z.*"
+        - name: "Dong, Z."
+          risk: true
       conference: Aquatic toxicology, 2024. (SCI二区，IF＝4.1，共同第一作者)  
       link: https://doi.org/10.1016/j.aquatox.2024.107011
       
@@ -178,7 +180,8 @@ publication:
         - name: "Jin, X."
         - name: "Yan, W."
         - name: "Xu, X."
-        - name: "Dong, Z.*"
+        - name: "Dong, Z."
+          risk: true
       conference: Aquaculture Reports, 2024. (SCI二区，IF＝3.2，共同第一作者)    
       link: https://doi.org/10.1016/j.aqrep.2024.102182
       
@@ -194,7 +197,8 @@ publication:
       - name: "Li, Y."
       - name: "Ping, K."
       - name: "Xin, Y."
-      - name: "Dong, Z.*"
+      - name: "Dong, Z."
+        risk: true
       conference: Toxicology and applied pharmacology, 2024. (SCI三区，IF＝3.8，第一作者)
       link: https://doi.org/10.1016/j.taap.2024.116860
 
@@ -215,7 +219,8 @@ publication:
         hash: false
         bold: true
       - name: "Lu, Y."
-      - name: "Dong, Z.*"
+      - name: "Dong, Z."
+        risk: true
       conference: International immunopharmacology, 2024. (SCI二区，IF＝4.8，第四作者) 
       link: https://doi.org/10.1016/j.intimp.2023.111432
       
@@ -236,7 +241,8 @@ publication:
         bold: true
       - name: "Sun, Y."
       - name: "Zhang, J."
-      - name: "Dong, J.*"
+      - name: "Dong, J."
+        risk: true
       conference: Pesticide biochemistry and physiology, 2023. (SCI一区，IF＝4.2，第四作者)
       link: https://doi.org/10.1016/j.pestbp.2023.105590
 
