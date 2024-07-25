@@ -140,7 +140,7 @@ publication:
     - title: QUE alleviates ferroptosis in DFZ-induced kidney injury by activating the Nrf2/GPX4 defense pathway
       authors:
         - name: "Ji, X."
-          hash: true
+          hash: false
           bold: true
         - name: "Xie, K."
         - name: "Li, Y."
@@ -151,7 +151,19 @@ publication:
       link: ""
       
     - title: Silybin protected from avermectin-induced carp (Cyprinus carpio) nephrotoxicity by regulating PPAR-γ-involved inflammation, oxidative stress, ferroptosis and autophagy
-      authors: "Gan, J., **Ji, X.**, Jin, X., Zhou, M., Yang, C., Chen, Z., Yin, C., & Dong, Z."
+      authors: 
+        - name: "Gan, J."
+            hash: true
+            bold: false
+        - name: "Ji, X." 
+            hash: true
+            bold: true
+        - name: "Jin, X."
+        - name: "Zhou, M." 
+        - name: "Yang, C." 
+        - name: "Chen, Z." 
+        - name: "Yin, C."
+        - name: "& Dong, Z."
       conference: Aquatic toxicology, 2024. (SCI二区，IF＝4.1，共同第一作者)  
       link: https://doi.org/10.1016/j.aquatox.2024.107011
       
