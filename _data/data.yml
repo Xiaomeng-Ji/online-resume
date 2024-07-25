@@ -292,16 +292,16 @@ skill:
   groups:
     - name: 实验技术
       item:
-        - IP
         - RNA 提取
         - PCR
-        - Real-Time PCR
-        - Western blot
+        - Real-time PCR
+        - Western Blot
+        - IP
         - IF
         - IHC
         - ELISA
         - siRNA
-        - Transwell assay 
+        - Transwell Assay 
         - 细胞划痕
         - 基因过表达
         - 流式检测和分析
