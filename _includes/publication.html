@@ -36,7 +36,7 @@
         {% if item.authors %}
           <div class="authors">
             {% for author in item.authors %}
-              <span class="author{% if author.hash %} author-hash{% endif %}{% if author.bold %} bold{% endif %}">
+              <span class="author{% if author.hash %} author-hash{% endif %}{% if author.bold %} bold{% endif %}{% if author.risk %} author-risk{% endif %}">
                 {{ author.name }}
               </span>
               {% if forloop.last == false %}, {% endif %}
