@@ -149,12 +149,16 @@ small {
       .role,
       .major,
       .issuer,
-      .authors,
+      // .authors,
       .awarder,
       .reference-title {
         font-style: italic;
       }
-
+      .authors {
+        margin: 0; /* 移除前后间距 */
+        padding: 0; /* 移除前后填充 */
+        display: inline; /* 与之前保持一致 */
+      }
       .author {
         position: relative;
         display: inline-block;
