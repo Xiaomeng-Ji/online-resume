@@ -157,20 +157,21 @@ small {
       .authors {
         margin: 0; /* 移除前后间距 */
         padding: 0; /* 移除前后填充 */
-        display: inline; /* 与之前保持一致 */
+        // display: inline; /* 与之前保持一致 */
       }
       .author {
         position: relative;
         display: inline-block;
-        padding: -2px;
+        padding: 0 5px;
       }
       .author-hash::after {
         content: '#';
-        position: relative;
-        top: -10px;
-        right: -12px;
+        position: absolute;
+        top: 0px;
+        right: -10px;
         font-size: 10px;
         color: red; /* 你可以根据需要更改颜色 */
+        line-height: 1;
         }
       .bold {
         font-weight: bold;
