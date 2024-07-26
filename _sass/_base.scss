@@ -167,6 +167,7 @@ small {
         font-style: italic;
       }
       .author-hash::after {
+        font-weight: normal;
         content: '#';
         position: absolute;
         top: 4px;
@@ -176,6 +177,7 @@ small {
         line-height: 1;
         }
       .author-risk::after {
+        font-weight: normal;
         content: '\002A';
         position: absolute;
         top: 4px;
@@ -186,6 +188,7 @@ small {
         }
       .bold {
         font-weight: bold;
+        position: relative;
       }
       
       .date,
