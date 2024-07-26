@@ -188,10 +188,14 @@ publication:
     - title: Quercetin alleviates the toxicity of difenoconazole to the respiratory system of carp by reducing ROS accumulation and maintaining mitochondrial dynamic balance
       authors: 
       - name: "Ji, X."
-        hash: false
+        hash: true
         bold: true
       - name: "Guo, J."
+        hash: true
+        bold: false
       - name: "Ma, Y."
+        hash: true
+        bold: false
       - name: "Zhang, S."
       - name: "Yang, Z."
       - name: "Li, Y."
