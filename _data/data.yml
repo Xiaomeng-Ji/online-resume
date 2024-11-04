@@ -13,7 +13,7 @@ contact:
   # website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
-  birthday:                1995-02-12 # birthday
+  # birthday:                1995-02-12 # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
