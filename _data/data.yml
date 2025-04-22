@@ -120,7 +120,7 @@ project:
         + 完成文章实验设计，完成DHE染色，Tunel染色等实验；
         + 完成数据的分析和可视化工作，独立完成论文撰写工作。
         
-        成果：毒理学相关文章已发表四篇（一作1篇，共一2篇，四作1篇），在投一篇（一作）。
+        成果：毒理学相关文章已发表4篇（一作1篇，共一2篇，四作1篇），在投1篇（一作）。
  
     - name: 关于药物缓解脓毒症多器官损伤的研究
       link:
@@ -130,13 +130,33 @@ project:
         + 在体内进行盲肠结扎穿刺(CLP)手术以构建脓毒症小鼠模型，并将药物进行腹腔注射。利用HE、IF、WB等技术，评估药物对模型的保护作用；
         + 参与体外细胞培养以及建模。
         
-        成果：脓毒症肠损伤文章已发表一篇（四作），脓毒症相关脑病文章在做一篇（一作）。
+        成果：脓毒症肠损伤文章已发表1篇（四作），脓毒症相关脑病文章在投1篇（一作）。
 
 publication:
   show: true
   order: 4
   title: 科研成果
   items:
+    - title: PIM-1 exacerbates sepsis-associated encephalopathy via promoting microglia NLRP3 inflammasome activation
+      authors:
+        - name: "Ji, X."
+          hash: true
+          bold: true
+        - name: "Zhao, P."
+          hash: false
+          bold: true
+        - name: "Zhu, W."
+        - name: "Zhang, S."
+        - name: "Chen, Y."
+        - name: "Liu, X."
+        - name: "Cao, Y."
+        - name: "Dong, J."
+          risk: true
+        - name: "Dong, Z."
+          risk: true
+      coference: International Journal of Biological Macromolecules, 2025. (SCI二区，IF=7.7，第一作者，在投)
+      link: ""
+          
     - title: QUE alleviates ferroptosis in DFZ-induced kidney injury by activating the Nrf2/GPX4 defense pathway
       authors:
         - name: "Ji, X."
@@ -260,7 +280,7 @@ experience:
       tags: 
       date: 2018.10 - 2021.04
 
-    - company: 陕西众信医药超市连锁股份有限公司
+    - company: 陕西众信医药股份有限公司
       link:
       tags: 
       date: 2017.07 - 2018.06
