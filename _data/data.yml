@@ -143,8 +143,8 @@ publication:
           hash: true
           bold: true
         - name: "Zhao, P."
-          hash: false
-          bold: true
+          hash: true
+          bold: false
         - name: "Zhu, W."
         - name: "Zhang, S."
         - name: "Chen, Y."
